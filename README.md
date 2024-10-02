@@ -27,8 +27,6 @@
     </a>
 </div>
 
-<hr style="border: 1px solid #FFE1FF;" />
-
 <div align="center">
   <a href="(https://let-d0-study.tistory.com)"><img src="http://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>   
   <a href="(https://velog.io/@ksy1221)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
