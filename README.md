@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc8dd&height=200&section=header&text=새로운%20것들을%20알아가는게%20즐거운%20프론트엔드%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc8dd&height=200&section=header&text=새로운%20것을%20알아가는게%20즐거운%20프론트엔드%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />
 
 <div>
   <h4><strong>걸어온 길</strong></h4>
