@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc8dd&height=200&section=header&text=새로운%20것들을%20알아가는게%20즐거운%20프론트엔드%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />
+
 <div>
-  <p><b>새로운 것들을 알아가는게 즐거운 프론트엔드 개발자 김수연입니다.</b></p>
+  <h4><strong>걸어온 길</strong></h4>
   <ul>
     <li>🎓 소프트웨어공학과 졸업 (-2023.02)</li>
     <li>☁️ 구름톤 풀스택 개발자 양성 과정 5회차 수료 (2023.12-2024.06)</li>
