@@ -10,18 +10,10 @@
 </div>
 <br />
 
-<table style="border: none">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000" alt="kimsudang's GitHub stats" />
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact" alt="Top Langs" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center" height="200" >
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="kimsudang's GitHub stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
+</div>
 <br />
 
 <div align="center">
@@ -35,3 +27,4 @@
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sumsumm" alt="sumsumm's Solved.ac Badge" />
   </a>
 </div>
+<br />
