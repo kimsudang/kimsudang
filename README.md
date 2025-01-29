@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=D4BEE4&height=200&section=header&text=새로운%20것을%20알아가는게%20즐거운%20프론트엔드%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />  
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=D4BEE4&height=200&section=header&text=기획하고%20제작하는%20과정이%20즐거운%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />  
 </div>
 <br />
 
@@ -55,11 +55,8 @@
     <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  </div>
-  <div>
     <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
@@ -84,6 +81,7 @@
 </div>
 <br />
 
+<!--
 <div align="center" >
   <img src="http://mazandi.herokuapp.com/api?handle=sumsumm&theme=warm"/>
 </div>
@@ -92,4 +90,6 @@
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BC64E1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+
+-->
 
