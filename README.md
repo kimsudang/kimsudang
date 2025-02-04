@@ -16,7 +16,7 @@
     <a href="https://velog.io/@ksy1221">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff" height="25px"/>
     </a>
-    <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-7842502a6/">
+    <a href="www.linkedin.com/in/수연-김-12o21">
       <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px" />
     </a>
     <a href="https://github.com/kimsudang">
