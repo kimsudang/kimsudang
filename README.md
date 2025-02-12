@@ -29,6 +29,7 @@
 </div>
 <br />
 
+<!--
 <div align="center">
   <div>
     <strong>⚒️ Tech Stack</strong>
@@ -53,16 +54,17 @@
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </div>
 </div>
 <br />
+
 
 <div align="center">
   <div>
     <strong>💻 </strong>
   </div>
   <br />
+  -->
   
   <div height="200">
     <img src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="kimsudang's GitHub stats" height="200" />
