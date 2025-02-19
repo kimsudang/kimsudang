@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=D4BEE4&height=200&section=header&text=기획하고%20제작하는%20과정이%20즐거운%20개발자%20김수연입니다&fontSize=30&fontColor=f8f9fa&animation=fadeIn" />  
-</div>
-<br />
-
-<div align="center">
+<div>
   <div>
      <strong>🦦 About Me</strong>
   </div>
+  <p>안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.</p>
   <br />
   
   <div>
@@ -21,7 +17,11 @@
     </a>
     <a href="https://github.com/kimsudang">
       <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
-<!--     </a>
+   </a>
+    <a href >   
+      <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+    </a>
+    <!--  
     <a href="https://solved.ac/profile/sumsumm">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sumsumm" alt="sumsumm's Solved.ac Badge" height="25px"/>
     </a> -->
@@ -29,8 +29,7 @@
 </div>
 <br />
 
-<!--
-<div align="center">
+<div>
   <div>
     <strong>⚒️ Tech Stack</strong>
   </div>
@@ -41,7 +40,15 @@
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
   </div>
+
+<br />
+  
+<!--
   <div>
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
@@ -49,13 +56,9 @@
     <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
-  </div>
+  
 </div>
+
 <br />
 
 
@@ -71,6 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
   </div>
 </div>
+
 <br />
 
 <!--
