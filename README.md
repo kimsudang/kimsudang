@@ -18,8 +18,8 @@
     <a href="https://github.com/kimsudang">
       <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
    </a>
-    <a href >   
-      <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+    <a href="#" >   
+      <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" height="25px" />
     </a>
     <!--  
     <a href="https://solved.ac/profile/sumsumm">
