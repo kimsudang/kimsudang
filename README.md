@@ -4,6 +4,17 @@
   </div>
   <p>안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.</p>
   <br />
+
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimsudang&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/kimsudang?pet-id=680331197222501202"
+    width="600"
+    height="120"
+  />
+</a>
+
+    <br />
   
   <div>
     <a href="https://let-d0-study.tistory.com">
