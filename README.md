@@ -14,8 +14,6 @@
   />
 </a>
 
-    <br />
-  
   <div>
     <a href="https://let-d0-study.tistory.com">
       <img src="http://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=ffffff" height="25px"/>
