@@ -19,7 +19,7 @@
 ![React Badge](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Next.js Badge](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
-![sass](https://img.shields.io/badge/sass-23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![sass](https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 
 
 ### ⚙️ Back-end
