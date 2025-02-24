@@ -1,0 +1,17 @@
+{
+  "name": "kimsudang",
+  "version": "1.0.0",
+  "description": "<div>   <div>      <strong>🦦 About Me</strong>   </div>   <p>안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.</p>   <br />",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
