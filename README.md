@@ -1,102 +1,44 @@
-<div>
-  <div>
-     <strong>🦦 About Me</strong>
-  </div>
-  <p>안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.</p>
-  <br />
+## 🦦 About Me
 
-  
+안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimsudang&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/kimsudang?pet-id=680331197222501202"
-    width="600"
-    height="120"
-  />
-</a>
-  
+[![GitAnimals Line](https://render.gitanimals.org/lines/kimsudang?pet-id=680331197222501202)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimsudang&utm_content=line)
 
-  <div>
-    <a href="https://let-d0-study.tistory.com">
-      <img src="http://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=ffffff" height="25px"/>
-    </a>   
-    <a href="https://velog.io/@ksy1221">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff" height="25px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
-      <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px" />
-    </a>
-    <a href="https://github.com/kimsudang">
-      <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
-   </a>
-    <a href="#" >   
-      <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" height="25px" />
-    </a>
-    <!--  
-    <a href="https://solved.ac/profile/sumsumm">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sumsumm" alt="sumsumm's Solved.ac Badge" height="25px"/>
-    </a> -->
-  </div>
-</div>
-<br />
-
-<div>
-  <div>
-    <strong>⚒️ Tech Stack</strong>
-  </div>
-  <br />
-  
-  <div>
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
-  </div>
-
-<br />
-  
-<!--
-  <div>
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  </div>
-  
-</div>
-
-<br />
+[![Tistory Badge](http://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=ffffff)](https://let-d0-study.tistory.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff)](https://velog.io/@ksy1221)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimsudang)
+[![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#)
 
 
-<div align="center">
-  <div>
-    <strong>💻 </strong>
-  </div>
-  <br />
-  -->
-  
-  <div height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" alt="kimsudang's GitHub stats" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" alt="Top Langs" height="200" />
-  </div>
-</div>
+## ⚒️ Tech Stack
 
-<br />
+### 🌐 Front-end
+![JavaScript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Next.js Badge](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!--
-<div align="center" >
-  <img src="http://mazandi.herokuapp.com/api?handle=sumsumm&theme=warm"/>
-</div>
-<br />
+### ⚙️ Back-end
+![NestJS Badge](https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BC64E1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+### 🛠️ Tools
+![Git Badge](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Slack Badge](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
--->
 
+## 💻 Stats
+
+![kimsudang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy)
+
+
+## 📕 Latest Blog Posts
+
+<ul><li><a href='https://let-d0-study.tistory.com/entry/Failed-to-execute-command-npm-install-silent-ERROR' target='_blank'>Failed to execute command: npm install --silent ERROR</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EA%B0%95%EC%9D%98-%EC%88%98%EA%B0%95-NomadCoder-NestJS%EB%A1%9C-API-%EB%A7%8C%EB%93%A4%EA%B8%B0-0' target='_blank'>[강의 수강] NomadCoder NestJS로 API 만들기 #0</a></li><li><a href='https://let-d0-study.tistory.com/entry/nestjscli-EACCES-ERROR-command-not-found-nest' target='_blank'>EACCES ERROR @nestjs/cli &amp; command not found: nest</a></li><li><a href='https://let-d0-study.tistory.com/entry/Lv0-lL%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0' target='_blank'>[Lv.0] l로 만들기</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%BD%94%EC%B4%89%EC%B4%89%ED%8C%80-%EA%B8%B0%ED%9A%8D-%EB%B0%9C%ED%91%9C-%ED%94%BC%EB%93%9C%EB%B0%B1' target='_blank'>코촉촉팀 기획 발표 피드백</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95-Git-Github-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95-2' target='_blank'>[초기 설정] 멀티 레포 관리와 Netilfy 배포</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95-%EB%B0%B0%ED%8F%AC%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC' target='_blank'>[초기 설정] 모노 레포와 Vercel 배포에 관하여</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95-Git-Github-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95' target='_blank'>[초기 설정] Git  &amp; Github 초기 설정</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%98%A4%EB%B8%94%EC%99%84-20%EC%9D%BC%EC%B0%A8' target='_blank'>[오블완] 20일차</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%98%A4%EB%B8%94%EC%99%84-19%EC%9D%BC%EC%B0%A8' target='_blank'>[오블완] 19일차</a></li></ul>
