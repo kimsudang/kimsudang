@@ -11,8 +11,8 @@ let text = `## 🦦 About Me
 
 [![GitAnimals Line](https://render.gitanimals.org/lines/kimsudang?pet-id=680331197222501202)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimsudang&utm_content=line)
 
-[![Tistory Badge](http://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=ffffff)](https://let-d0-study.tistory.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=ffffff)](https://velog.io/@ksy1221)
+[![Tistory Badge](http://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=ffffff)](https://let-d0-study.tistory.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff)](https://velog.io/@ksy1221)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimsudang)
 [![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#)
@@ -26,11 +26,14 @@ let text = `## 🦦 About Me
 ![React Badge](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Next.js Badge](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![sass](https://img.shields.io/badge/sass-23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+
 
 ### ⚙️ Back-end
 ![NestJS Badge](https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### 🛠️ Tools
 ![Git Badge](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -42,8 +45,18 @@ let text = `## 🦦 About Me
 
 ## 💻 Stats
 
-![kimsudang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy)
+<div align="center">
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
+    alt="kimsudang's GitHub stats" 
+  />
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
+    alt="Top Langs" 
+  />
+</div>
 
 
 ## 📕 Latest Blog Posts
@@ -64,7 +77,7 @@ const parser = new Parser({
   text += `<ul>`;
 
   // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 8; i++) {
     const { title, link } = feed.items[i];
     console.log(`${i + 1}번째 게시물`);
     console.log(`추가될 제목: ${title}`);
