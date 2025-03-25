@@ -5,6 +5,13 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
+
+/* 
+About Me 추가 내용
+<!-- [![readme Badge](https://img.shields.io/badge/RESUME-%23018EF5.svg?&style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1dMLvngwTy9ysGWxcdM1pEUXRKeY7DnhF/view?usp=sharing) -->
+<!-- [![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#) -->
+*/
+
 let text = `## 🦦 About Me
 
 안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.
@@ -15,8 +22,6 @@ let text = `## 🦦 About Me
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff)](https://velog.io/@ksy1221)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimsudang)
-[![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#)
-
 
 ## ⚒️ Tech Stack
 
