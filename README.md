@@ -8,8 +8,6 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff)](https://velog.io/@ksy1221)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimsudang)
-[![Notion Badge](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#)
-
 
 ## ⚒️ Tech Stack
 
