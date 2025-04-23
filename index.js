@@ -14,7 +14,7 @@ About Me 추가 내용
 
 let text = `## 🦦 About Me
 
-안녕하세요. 성장하는 과정이 즐거운 프론트엔드 개발자 김수연입니다.
+안녕하세요. 성장하는 과정이 즐거운 개발자 김수연입니다.
 
 [![GitAnimals Line](https://render.gitanimals.org/lines/kimsudang?pet-id=680331197222501202)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimsudang&utm_content=line)
 
@@ -82,7 +82,7 @@ const parser = new Parser({
   text += `<ul>`;
 
   // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 8; i++) {
     const { title, link } = feed.items[i];
     console.log(`${i + 1}번째 게시물`);
     console.log(`추가될 제목: ${title}`);
