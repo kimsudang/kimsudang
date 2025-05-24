@@ -46,7 +46,7 @@ let text = `### 🦦 안녕하세요
 </a>
 
 ### ⚒️ 사용한 기술 스택
-<div>
+<div style="display: flex; gap: 5px; flex-wrap: wrap;>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" height="23" />
   <img src="https://img.shields.io/badge/css-%23663399.svg?&style=for-the-badge&logo=css&logoColor=white" alt="CSS Badge" height="23" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" height="23" />
@@ -54,32 +54,37 @@ let text = `### 🦦 안녕하세요
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React Badge" height="23" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" height="23" />
 </div>
-<div>
+
+<div style="display: flex; gap: 5px; flex-wrap: wrap;>
   <img src="https://img.shields.io/badge/zustand-%23663388.svg?&style=for-the-badge&logo=zustand&logoColor=black" alt="zustand Badge" height="23" />
   <img src="https://img.shields.io/badge/reactquery-%23FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery Badge" height="23" />
   <img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="23" />
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" height="23" />
 </div>
-<div>
+
+<div style="display: flex; gap: 5px; flex-wrap: wrap;>
   <img src="https://img.shields.io/badge/node.js-%235FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs Badge" height="23" />
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express Badge" height="23" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" height="23" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="23" />
   <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" height="23" />
 </div>
-<div>
+
+<div style="display: flex; gap: 5px; flex-wrap: wrap;>
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker Badge" height="23" />
   <img src="https://img.shields.io/badge/amazonec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2 Badge" height="23" />
   <img src="https://img.shields.io/badge/amazons3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3 Badge" height="23" />
   <img src="https://img.shields.io/badge/githubactions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions Badge" height="23" />
 </div>
-<div>
+
+<div style="display: flex; gap: 5px; flex-wrap: wrap;>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="23" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code Badge" height="23" />
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" height="23" />
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" height="23" />
   <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge" height="23" />
 </div>
+
 
 <div align="center">
   <img 
