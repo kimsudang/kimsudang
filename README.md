@@ -5,25 +5,25 @@
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
   <a href="https://let-d0-study.tistory.com">
-    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory&logoColor=ffffff" alt="Tistory Badge" height="23px" />
+    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory&logoColor=ffffff" alt="Tistory Badge" height="25px" />
   </a>
   <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="23px" />
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/resume-%23d197e8.svg?&style=for-the-badge" alt="Notion Badge" height="23px" />
+    <img src="https://img.shields.io/badge/resume-%23d197e8.svg?&style=for-the-badge" alt="Notion Badge" height="25px" />
   </a>
-  <a href="mailto:kbsksy1221@naver.com"><img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="23px"></a>
+  <a href="mailto:kbsksy1221@naver.com"><img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="25px"></a>
   <a href="https://velog.io/@ksy1221">
-    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="23px" />
+    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="25px" />
   </a>
 </div>
 
 ### ⚒️ 기술 스택
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap">
+<div>
   <div><b>Frontend</b></div>
-  <div>
+  <div style="display: flex; gap: 5px; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" height="25px" />
     <img src="https://img.shields.io/badge/css-%23663399.svg?&style=for-the-badge&logo=css&logoColor=white" alt="CSS Badge" height="25px" />
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" height="25px" />
@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white" alt="vite Badge" height="25px" />
   </div>
 </div>
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap">
+<br>
+<div>
   <div><b>Backend</b></div>
-  <div>
+  <div style="display: flex; gap: 5px; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/nodejs-%235FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs Badge" height="25px" />
     <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express Badge" height="25px" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" height="25px" />
@@ -50,19 +50,19 @@
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python Badge" height="25px" />
   </div>
 </div>
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap">
+<br>
+<div>
   <div><b>Devops</b></div>
-  <div>
+  <div style="display: flex; gap: 5px; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel Badge" height="25px" />
     <img src="https://img.shields.io/badge/githubactions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions Badge" height="25px" />
     <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker Badge" height="25px" />
   </div>
 </div>
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap">
+<br>
+<div>
   <div><b>Tools</b></div>
-  <div>
+  <div style="display: flex; gap: 5px; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/aws-%23002663.svg?&style=for-the-badge" alt="aws Badge" height="25px" />
     <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="25px" />
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="25px" />
