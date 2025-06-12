@@ -13,7 +13,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/resume-%23d197e8.svg?&style=for-the-badge" alt="Notion Badge" height="23px" />
   </a>
-  <a href="mailto:kbsksy1221@naver.com"><img src="https://img.shields.io/badge/email-%2f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="23px"></a>
+  <a href="mailto:kbsksy1221@naver.com"><img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="23px"></a>
   <a href="https://velog.io/@ksy1221">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="23px" />
   </a>
