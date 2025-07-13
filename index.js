@@ -9,7 +9,6 @@ import Parser from 'rss-parser';
 let text = `### 🦦 안녕하세요
 
 안녕하세요 **동그란** 개발자 김수연입니다. 🍑 <br>
-**자동화**와 **문서화**에 관심이 많습니다. 
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
   <a href="https://let-d0-study.tistory.com">
@@ -83,9 +82,12 @@ let text = `### 🦦 안녕하세요
 </div>
 
 ### 🎮 프로젝트
-- 👖 청년을 위한 통합 서비스 [청바지](https://github.com/ezen-benttod) (2025.05-진행중) | FE, BE
+**팀프로젝트**
+- 👖 청년을 위한 통합 서비스 [청바지](https://github.com/ezen-benttod) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | BE, 팀장
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
+**개인프로젝트**
+- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/kimsudang/jaego-keeper) (2025.07-)
 
 ### 
 
