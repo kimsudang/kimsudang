@@ -20,7 +20,9 @@ let text = `### 🦦 안녕하세요
   <a href="#">
     <img src="https://img.shields.io/badge/resume-%23d197e8.svg?&style=for-the-badge" alt="Notion Badge" height="25px" />
   </a>
-  <a href="mailto:kbsksy1221@naver.com"><img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="25px"></a>
+  <a href="mailto:kbsksy1221@naver.com">
+    <img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="25px" />
+  </a>
   <a href="https://velog.io/@ksy1221">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="25px" />
   </a>
@@ -82,11 +84,12 @@ let text = `### 🦦 안녕하세요
 </div>
 
 ### 🎮 프로젝트
-**팀프로젝트**
+<strong>팀프로젝트</strong>
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/ezen-benttod) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | BE, 팀장
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
-**개인프로젝트**
+
+<strong>개인프로젝트</strong>
 - 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/kimsudang/jaego-keeper) (2025.07-)
 
 ### 
