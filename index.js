@@ -18,10 +18,10 @@ let text = `### 🦦 안녕하세요
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/resume-%23d197e8.svg?&style=for-the-badge" alt="Notion Badge" height="25px" />
+    <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="mailto:kbsksy1221@naver.com">
-    <img src="https://img.shields.io/badge/email-%23f2b3e5?style=flat-square&logo=gmail&logoColor=black" height="25px" />
+    <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
   <a href="https://velog.io/@ksy1221">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="25px" />
