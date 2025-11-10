@@ -80,9 +80,10 @@
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/ezen-benttod) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | BE, 팀장
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
+- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/Jachodan) (2025.10-2026.01) | FE
 
 <strong>개인프로젝트</strong>
-- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/kimsudang/jaego-keeper) (2025.07-)
+- 
 
 ### 
 
