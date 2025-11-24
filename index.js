@@ -21,7 +21,7 @@ let text = `### 🦦 안녕하세요
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="https://drive.google.com/file/d/1ctUh-w6tdmayfnybWz2ke2c9_Poaqp2X/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/portfolio-%475570e8?&style=for-the-badge" alt="resume Badge" height="25px" />
+    <img src="https://img.shields.io/badge/portfolio-%475570?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="mailto:kbsksy1221@naver.com">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
