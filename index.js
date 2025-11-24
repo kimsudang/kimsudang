@@ -8,7 +8,7 @@ import Parser from 'rss-parser';
 
 let text = `### 🦦 안녕하세요
 
-안녕하세요 **동그란** 개발자 김수연입니다. 🍑 <br>
+**주어진 상황에 최선을 다하는** 개발자 김수연입니다. 🍑 <br>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
   <a href="https://let-d0-study.tistory.com">
@@ -19,6 +19,9 @@ let text = `### 🦦 안녕하세요
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ctUh-w6tdmayfnybWz2ke2c9_Poaqp2X/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/portfolio-%475570e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="mailto:kbsksy1221@naver.com">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
@@ -85,10 +88,10 @@ let text = `### 🦦 안녕하세요
 
 ### 🎮 프로젝트
 <strong>팀프로젝트</strong>
+- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/Jachodan) (2025.10-2026.01) | FE
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/ezen-benttod) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | BE, 팀장
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
-- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/Jachodan) (2025.10-2026.01) | FE
 
 <strong>개인프로젝트</strong>
 - ⭐️
@@ -97,12 +100,12 @@ let text = `### 🦦 안녕하세요
 
 <div>
   <img 
-    height="135em" 
+    height="150em" 
     src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
     alt="kimsudang's GitHub stats" 
   />
   <img 
-    height="135em" 
+    height="150em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
     alt="Top Langs" 
   />
