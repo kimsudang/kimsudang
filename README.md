@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="https://drive.google.com/file/d/1ctUh-w6tdmayfnybWz2ke2c9_Poaqp2X/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/portfolio-%475570e8?&style=for-the-badge" alt="resume Badge" height="25px" />
+    <img src="https://img.shields.io/badge/portfolio-%475570?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
   <a href="mailto:kbsksy1221@naver.com">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
@@ -105,4 +105,4 @@
 
 ### 📕 블로그
 
-<ul><li><a href='https://let-d0-study.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%84%9C-LUvit-%EB%82%98%EC%9D%98-%EC%B2%AB-%ED%83%80%EC%9E%84%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[개발도서] LUvit 나의 첫 타임스크립트 프로젝트</a></li><li><a href='https://let-d0-study.tistory.com/entry/WIL-%EB%A7%A4%EB%A0%A5-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EA%B5%90%EC%9C%A1-2-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0' target='_blank'>[WIL] 매력 일자리 교육 2-4주차 회고</a></li><li><a href='https://let-d0-study.tistory.com/entry/Cursor-IDE-%EC%84%A4%EC%B9%98-%EC%A7%A7%EC%9D%80-%ED%9B%84%EA%B8%B0' target='_blank'>Cursor IDE 설치 짧은 후기</a></li><li><a href='https://let-d0-study.tistory.com/entry/Github-Actions-Discord-WebHook-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%95%8C%EB%A6%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0' target='_blank'>Github Actions과 Discord WebHook을 사용해서 알림 보내기</a></li><li><a href='https://let-d0-study.tistory.com/entry/WIL-%EB%A7%A4%EB%A0%A5-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EA%B5%90%EC%9C%A1-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0' target='_blank'>[WIL] 매력 일자리 교육 1주차 회고</a></li></ul>
+<ul><li><a href='https://let-d0-study.tistory.com/entry/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91' target='_blank'>재고키퍼 프로젝트 시작</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%84%9C-LUvit-%EB%82%98%EC%9D%98-%EC%B2%AB-%ED%83%80%EC%9E%84%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[개발도서] LUvit 나의 첫 타임스크립트 프로젝트</a></li><li><a href='https://let-d0-study.tistory.com/entry/WIL-%EB%A7%A4%EB%A0%A5-%EC%9D%BC%EC%9E%90%EB%A6%AC-%EA%B5%90%EC%9C%A1-2-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0' target='_blank'>[WIL] 매력 일자리 교육 2-4주차 회고</a></li><li><a href='https://let-d0-study.tistory.com/entry/Cursor-IDE-%EC%84%A4%EC%B9%98-%EC%A7%A7%EC%9D%80-%ED%9B%84%EA%B8%B0' target='_blank'>Cursor IDE 설치 짧은 후기</a></li><li><a href='https://let-d0-study.tistory.com/entry/Github-Actions-Discord-WebHook-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%95%8C%EB%A6%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0' target='_blank'>Github Actions과 Discord WebHook을 사용해서 알림 보내기</a></li></ul>
