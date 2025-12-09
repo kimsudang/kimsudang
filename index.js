@@ -96,20 +96,6 @@ let text = `### 🦦 안녕하세요
 <strong>개인프로젝트</strong>
 - ⭐️
 
-### 
-
-<div>
-  <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
-    alt="kimsudang's GitHub stats" 
-  />
-  <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
-    alt="Top Langs" 
-  />
-</div>
 
 ### 📕 블로그
 
@@ -145,3 +131,22 @@ const parser = new Parser({
   });
   console.log('업데이트 완료');
 })();
+
+/* 현재 오류 발생 - stats check
+
+### 
+
+<div>
+  <img 
+    height="150em" 
+    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
+    alt="kimsudang's GitHub stats" 
+  />
+  <img 
+    height="150em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
+    alt="Top Langs" 
+  />
+</div>
+
+*/
