@@ -88,19 +88,6 @@ let text = `### 🦦 안녕하세요
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
 
-<div>
-  <img 
-    height="135em" 
-    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
-    alt="kimsudang's GitHub stats" 
-  />
-  <img 
-    height="135em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
-    alt="Top Langs" 
-  />
-</div>
-
 ### 📕 최근 작성한 블로그
 
 `;
