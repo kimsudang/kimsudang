@@ -1,5 +1,5 @@
-import { writeFileSync } from 'node:fs';
-import Parser from 'rss-parser';
+import { writeFileSync } from "node:fs";
+import Parser from "rss-parser";
 
 /**
  * README.MD에 작성될 페이지 텍스트
@@ -89,10 +89,3 @@ let text = `### 🦦 안녕하세요
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
 
 `;
-
-/** 개인 프로젝트 정보
- * 
-<strong>개인프로젝트</strong>
-- ⭐️ Portfolio
-- ✍️ blog
- */
