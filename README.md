@@ -1,6 +1,6 @@
 ### 🦦 안녕하세요
 
-**주어진 상황에 최선을 다하는** 개발자 김수연입니다. 🍑 <br>
+**프론트엔드** 개발자 김수연입니다. 🍑 <br>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
   <a href="#">
@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
   <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" />
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="25px" />
   </a>
   <a href="https://let-d0-study.tistory.com">
-    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory&logoColor=ffffff" alt="Tistory Badge" height="25px" />
+    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory" alt="Tistory Badge" height="25px" />
   </a>
   <a href="https://velog.io/@ksy1221">
-    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="25px" />
+    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog" alt="Velog Badge" height="25px" />
   </a> 
 </div>
 
@@ -66,13 +66,11 @@
 
 ### 🎮 프로젝트
 
-<strong>팀프로젝트</strong>
-
-- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/Jachodan/jachodan-next) (2025.10-2026.01) | FE
+- 📦 자영업 재고 관리 도구 서비스 [재고키퍼](https://github.com/Jachodan/jachodan-next) (2025.10-2026.02) | FE
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/kimsudang/bentto-frontend) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
 
-### 📕 최근 작성한 블로그
+### 📕 최근 블로그
 
 <ul><li><a href='https://let-d0-study.tistory.com/entry/202601-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0' target='_blank'>2026.01 2주차 주간 회고</a></li><li><a href='https://let-d0-study.tistory.com/entry/2026%EB%85%84%EC%97%90-%EC%A0%81%EC%96%B4%EB%B3%B4%EB%8A%94-2025%EB%85%84-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%EC%83%9D-%ED%9A%8C%EA%B3%A0' target='_blank'>2026년에 적어보는 2025년 개발 인생 회고</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC-%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80-4-Single-Source-of-Truth%EB%A1%9C-%ED%83%80%EC%9E%85%EA%B3%BC-UI%EB%A5%BC-%EC%9D%BC%EC%B9%98%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95' target='_blank'>재고키퍼 작업일지 #4 Union type을 UI 옵션으로 사용하기</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC-%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80-3-%EC%9E%90%ED%94%84%EB%A7%81-%EB%AA%B0%EB%9D%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%9D%98-%EC%9E%90%ED%94%84%EB%A7%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%A4%ED%96%89' target='_blank'>재고키퍼 작업일지 #3 자프링 몰라 프론트의 자프링 프로젝트 실행</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC-%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80-1-Type-Interface' target='_blank'>재고키퍼 작업일지 #1 Type Interface</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91' target='_blank'>재고키퍼 작업일지 #0 재고키퍼 프로젝트 시작</a></li><li><a href='https://let-d0-study.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%84%9C-LUvit-%EB%82%98%EC%9D%98-%EC%B2%AB-%ED%83%80%EC%9E%84%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[개발도서] LUvit 나의 첫 타임스크립트 프로젝트</a></li></ul>
