@@ -8,7 +8,7 @@ import Parser from "rss-parser";
 
 let text = `### 🦦 안녕하세요
 
-**주어진 상황에 최선을 다하는** 개발자 김수연입니다. 🍑 <br>
+**프론트엔드** 개발자 김수연입니다. 🍑 <br>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
   <a href="#">
@@ -21,13 +21,13 @@ let text = `### 🦦 안녕하세요
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
   <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" />
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="25px" />
   </a>
   <a href="https://let-d0-study.tistory.com">
-    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory&logoColor=ffffff" alt="Tistory Badge" height="25px" />
+    <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory" alt="Tistory Badge" height="25px" />
   </a>
   <a href="https://velog.io/@ksy1221">
-    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog&logoColor=ffffff" alt="Velog Badge" height="25px" />
+    <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog" alt="Velog Badge" height="25px" />
   </a> 
 </div>
 
@@ -74,44 +74,42 @@ let text = `### 🦦 안녕하세요
 
 ### 🎮 프로젝트
 
-<strong>팀프로젝트</strong>
-
-- 📦 자영업 재고 관리 도구 서비스 [재고지킴이](https://github.com/Jachodan/jachodan-next) (2025.10-2026.01) | FE
+- 📦 자영업 재고 관리 도구 서비스 [재고키퍼](https://github.com/Jachodan/jachodan-next) (2025.10-2026.02) | FE
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/kimsudang/bentto-frontend) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
 
-### 📕 최근 작성한 블로그
+### 📕 최근 블로그
 
 `;
 
 // rss-parser 생성
 const parser = new Parser({
-  headers: {
-    Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
-  },
+    headers: {
+        Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
+    },
 });
 
 (async () => {
-  // 피드 목록
-  const feed = await parser.parseURL("https://let-d0-study.tistory.com/rss");
+    // 피드 목록
+    const feed = await parser.parseURL("https://let-d0-study.tistory.com/rss");
 
-  text += `<ul>`;
+    text += `<ul>`;
 
-  // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
-  for (let i = 0; i < 7; i++) {
-    const { title, link } = feed.items[i];
-    console.log(`${i + 1}번째 게시물`);
-    console.log(`추가될 제목: ${title}`);
-    console.log(`추가될 링크: ${link}`);
-    text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
-  }
+    // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
+    for (let i = 0; i < 7; i++) {
+        const { title, link } = feed.items[i];
+        console.log(`${i + 1}번째 게시물`);
+        console.log(`추가될 제목: ${title}`);
+        console.log(`추가될 링크: ${link}`);
+        text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+    }
 
-  text += `</ul>`;
+    text += `</ul>`;
 
-  // README.md 파일 생성
-  writeFileSync("README.md", text, "utf8", (e) => {
-    console.log(e);
-  });
-  console.log("업데이트 완료");
+    // README.md 파일 생성
+    writeFileSync("README.md", text, "utf8", (e) => {
+        console.log(e);
+    });
+    console.log("업데이트 완료");
 })();
