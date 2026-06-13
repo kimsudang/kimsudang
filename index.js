@@ -73,7 +73,7 @@ let text = `### 🦦 안녕하세요
 </div>
 
 ### 🎮 프로젝트
-
+- 🔊 카페 음성 안내 서비스 [카페알람](https://github.com/kimsudang/cafe-notice) (2026.05-진행중) | 개인 프로젝트
 - 📦 자영업 재고 관리 도구 서비스 [재고키퍼](https://github.com/Jachodan/jachodan-next) (2025.10-2026.02) | FE
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/kimsudang/bentto-frontend) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
