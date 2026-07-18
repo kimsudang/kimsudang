@@ -3,22 +3,22 @@
 김수연입니다. 🍑 <br>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
-  <a href="#" style="text-decoration-line: none;">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
-  <a href="#" style="text-decoration-line: none;">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/portfolio-%475570?&style=for-the-badge" alt="portfolio Badge" height="25px" />
   </a>
-  <a href="mailto:suyeonkim.dev@gmail.com" style="text-decoration-line: none;">
+  <a href="mailto:suyeonkim.dev@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
-  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/" style="text-decoration-line: none;">
+  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="25px" />
   </a>
-  <a href="https://let-d0-study.tistory.com" style="text-decoration-line: none;">
+  <a href="https://let-d0-study.tistory.com" style="text-decoration: none;">
     <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory" alt="Tistory Badge" height="25px" />
   </a>
-  <a href="https://velog.io/@ksy1221" style="text-decoration-line: none;">
+  <a href="https://velog.io/@ksy1221" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog" alt="Velog Badge" height="25px" />
   </a> 
 </div>
@@ -67,7 +67,7 @@
 </div>
 
 ### 🎮 프로젝트
-- 🔊 카페 음성 안내 서비스 [카페알람](https://github.com/kimsudang/cafe-notice) (2026.05-진행중) | 개인 프로젝트
+- 🔊 카페 음성 안내 웹 서비스 [카페알람](https://github.com/kimsudang/cafe-notice) (2026.05-2026.06) | 개인 프로젝트
 - 📦 자영업 재고 관리 도구 서비스 [재고키퍼](https://github.com/Jachodan/jachodan-next) (2025.10-2026.02) | FE
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/kimsudang/bentto-frontend) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
