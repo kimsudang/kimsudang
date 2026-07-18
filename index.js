@@ -35,7 +35,7 @@ let text = `### 🦦 안녕하세요
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
-    <strong>Frontend</strong>
+    <strong>Frontend</strong><br />
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" height="25px" />
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React Badge" height="25px" />
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" height="25px" />
@@ -45,26 +45,28 @@ let text = `### 🦦 안녕하세요
     <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" height="25px" />
   </div>
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
-    <strong>Backend</strong>
+    <strong>Backend</strong><br />
+    <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="springboot Badge" height="25px" />
     <img src="https://img.shields.io/badge/nodejs-%235FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs Badge" height="25px" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" height="25px" />
-    <img src="https://img.shields.io/badge/typeorm-%23FE0803.svg?&style=for-the-badge&logo=typeorm&logoColor=white" alt="typeorm Badge" height="25px" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="25px" />
+    <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb Badge" height="25px" />
     <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" height="25px" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python Badge" height="25px" />
   </div>
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
-    <strong>Devops</strong>
+    <strong>Devops</strong><br />
     <img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel Badge" height="25px" />
     <img src="https://img.shields.io/badge/githubactions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions Badge" height="25px" />
     <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker Badge" height="25px" />
   </div>
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
-    <strong>Tools</strong>
+    <strong>Tools</strong><br />
     <img src="https://img.shields.io/badge/aws-%23002663.svg?&style=for-the-badge" alt="aws Badge" height="25px" />
     <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" height="25px" />
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="25px" />
     <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge" alt="VS Code Badge" height="25px" />
+    <img src="https://img.shields.io/badge/intellijidea-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" alt="intellijidea Badge" height="25px" />
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" height="25px" />
     <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge" height="25px" />
     <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" height="25px" />
