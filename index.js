@@ -8,25 +8,25 @@ import Parser from "rss-parser";
 
 let text = `### 🦦 안녕하세요
 
-**프론트엔드** 개발자 김수연입니다. 🍑 <br>
+김수연입니다. 🍑 <br>
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap">
-  <a href="#">
+  <a href="#" style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
-  <a href="https://drive.google.com/file/d/1ctUh-w6tdmayfnybWz2ke2c9_Poaqp2X/view?usp=drive_link">
+  <a href="#" style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/portfolio-%475570?&style=for-the-badge" alt="portfolio Badge" height="25px" />
   </a>
-  <a href="mailto:kbsksy1221@naver.com">
+  <a href="mailto:suyeonkim.dev@gmail.com" style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
-  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
+  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/" style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="25px" />
   </a>
-  <a href="https://let-d0-study.tistory.com">
+  <a href="https://let-d0-study.tistory.com" style="text-decoration-line: none;">
     <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory" alt="Tistory Badge" height="25px" />
   </a>
-  <a href="https://velog.io/@ksy1221">
+  <a href="https://velog.io/@ksy1221" style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog" alt="Velog Badge" height="25px" />
   </a> 
 </div>
