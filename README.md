@@ -29,8 +29,9 @@
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
     <strong>Frontend</strong><br />
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" height="25px" />
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React Badge" height="25px" />
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Badge" height="25px" />
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" height="25px" />
+    <img src="https://img.shields.io/badge/vuedotjs-%234FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuedotjs Badge" height="25px" />
     <img src="https://img.shields.io/badge/zustand-%23552277.svg?&style=for-the-badge&logo=zustand&logoColor=black" alt="zustand Badge" height="25px" />
     <img src="https://img.shields.io/badge/reactquery-%23FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery Badge" height="25px" />
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="25px" />
@@ -72,6 +73,21 @@
 - 👖 청년을 위한 통합 서비스 [청바지](https://github.com/kimsudang/bentto-frontend) (2025.05-2025.06) | FE
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
+
+### 📝 log
+
+<div>
+  <img 
+    height="135em" 
+    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
+    alt="kimsudang's GitHub stats" 
+  />
+  <img 
+    height="135em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
+    alt="Top Langs" 
+  />
+</div>
 
 ### 📕 최근 블로그
 
