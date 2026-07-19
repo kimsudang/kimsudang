@@ -31,17 +31,17 @@
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" height="25px" />
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React Badge" height="25px" />
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" height="25px" />
-    <img src="https://img.shields.io/badge/vuedotjs-%234FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuedotjs Badge" height="25px" />
+    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuejs Badge" height="25px" />
     <img src="https://img.shields.io/badge/zustand-%23552277.svg?&style=for-the-badge&logo=zustand&logoColor=black" alt="zustand Badge" height="25px" />
     <img src="https://img.shields.io/badge/reactquery-%23FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white" alt="reactquery Badge" height="25px" />
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" height="25px" />
-    <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" height="25px" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" height="25px" />
   </div>
   <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
     <strong>Backend</strong><br />
     <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="springboot Badge" height="25px" />
-    <img src="https://img.shields.io/badge/nodejs-%235FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs Badge" height="25px" />
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" height="25px" />
+    <img src="https://img.shields.io/badge/node.js-%235FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs Badge" height="25px" />
+    <img src="https://img.shields.io/badge/nest.js-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" height="25px" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" height="25px" />
     <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb Badge" height="25px" />
     <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" height="25px" />
