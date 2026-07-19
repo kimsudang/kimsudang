@@ -2,23 +2,23 @@
 
 김수연입니다. 🍑 <br>
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap">
-  <a href="#" style="text-decoration: none;">
+<div style="display: flex; gap: 5px; flex-wrap: wrap; text-decoration: none;">
+  <a href="#">
     <img src="https://img.shields.io/badge/resume-%23d197e8?&style=for-the-badge" alt="resume Badge" height="25px" />
   </a>
-  <a href="#" style="text-decoration: none;">
+  <a href="#">
     <img src="https://img.shields.io/badge/portfolio-%475570?&style=for-the-badge" alt="portfolio Badge" height="25px" />
   </a>
-  <a href="mailto:suyeonkim.dev@gmail.com" style="text-decoration: none;">
+  <a href="mailto:suyeonkim.dev@gmail.com">
     <img src="https://img.shields.io/badge/email-%23f2b3e5?style=for-the-badge" alt="mail Badge" height="25px" />
   </a>
-  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%EA%B9%80-12o21/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="25px" />
   </a>
-  <a href="https://let-d0-study.tistory.com" style="text-decoration: none;">
+  <a href="https://let-d0-study.tistory.com">
     <img src="http://img.shields.io/badge/Tistory-%23FF5722?style=for-the-badge&logo=Tistory" alt="Tistory Badge" height="25px" />
   </a>
-  <a href="https://velog.io/@ksy1221" style="text-decoration: none;">
+  <a href="https://velog.io/@ksy1221">
     <img src="https://img.shields.io/badge/Velog-%2320C997?style=for-the-badge&logo=Velog" alt="Velog Badge" height="25px" />
   </a> 
 </div>
@@ -74,20 +74,6 @@
 - 🐶 반려동물 돌봄 구인 서비스 [코촉촉](https://github.com/kimsudang/ko-chock-chock-backend) (2024.12-2025.01) | 팀장, BE
 - ⚙️ 프로젝트 협업도구 올인원 플랫폼 [팀글벙글](https://github.com/kimsudang/passion-mansour-teambeam-frontend) (2024.04-2024.06) | FE
 
-### 📝 log
-
-<div>
-  <img 
-    height="135em" 
-    src="https://github-readme-stats.vercel.app/api?username=kimsudang&hide=stars,&show=discussions_answered,$show_icons=true&bg_color=00000000&theme=buefy" 
-    alt="kimsudang's GitHub stats" 
-  />
-  <img 
-    height="135em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsudang&layout=compact&langs_count=6&theme=buefy" 
-    alt="Top Langs" 
-  />
-</div>
 
 ### 📕 최근 블로그
 
